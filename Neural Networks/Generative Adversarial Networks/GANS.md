@@ -1,3 +1,5 @@
+# Generative Adversarial Networks
+
 A generative neural network is a type of neural network that is designed to generate new data that is similar to the data it was trained on. There are many types of generative neural networks, but one popular approach is to use a generative adversarial network (GAN).
 
 Here's a general overview of how to create a GAN:
@@ -14,4 +16,4 @@ Alternate training the discriminator and generator networks: The two networks ar
 
 Generate new data: Once the generator network has been trained, it can be used to generate new samples of data that are similar to the data it was trained on.
 
-This is just a general overview of how to create a generative neural network using a GAN. The details of the architecture and training process will depend on the specific application and the type of data you are generating.
+This is just a general overview of how to create a generative neural network using a GAN. The details of the architecture and training process will depend on the specific application and the type of data being generated.
