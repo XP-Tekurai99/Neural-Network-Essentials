@@ -48,3 +48,15 @@ predictions = model.predict(data)
 ```
 
 This is just a basic example, and there are many more options and techniques that you can use when building neural networks with Keras. For example, you can add more layers, use different activation functions, and tune various hyperparameters such as the learning rate and the batch size. You can also use convolutional layers for image classification tasks and recurrent layers for time series data.
+
+## License
+
+Projects in this repository are distributed under the MIT License. See `LICENSE.txt` for more information.
+
+## Acknowledgments
+
+Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+
+* [Tensorflow](https://www.tensorflow.org/)
+* [Theano](https://pypi.org/project/Theano/)
+* [Choose a License](https://choosealicense.com)
